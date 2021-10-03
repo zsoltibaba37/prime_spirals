@@ -21,7 +21,7 @@ filecount = 1
 from tqdm import trange
 from time import time
 
-count = 20000 # <---- Change this !
+count = 400000 # <---- Change this !
 primes = []
 start = time()
 
