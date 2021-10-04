@@ -3,20 +3,18 @@
 - Edit 'count' variable inside .py file.
 ---
 - Now save data:  
-  
-First version:  
-`data_{today}_{count}_{filecount}.txt` and `data_{today}_{count}_{filecount}.png`  
-  
-Numpy version:  
-`data_{today}_{count}_{filecount}_numpy.txt` and `data_{today}_{count}_{filecount}_numpy.png` 
+- First version:  
+- `data_{today}_{count}_{filecount}.txt` and `data_{today}_{count}_{filecount}.png`  
+- Numpy version:  
+- `data_{today}_{count}_{filecount}_numpy.txt` and `data_{today}_{count}_{filecount}_numpy.png` 
 ---
-Added 'numpy', that greatly improve calc performance.  
-`> ./prime_spirals_numpy.py`  
+- Added 'numpy', that greatly improve calc performance.  
+- `> ./prime_spirals_numpy.py`  
 ---
-First version, without numpy.  
-`> ./prime_spirals.py`  
+- First version, without numpy.
+- `> ./prime_spirals.py`  
 ---
-### Notedata_{today}_{count}_{filecount}.txt
+### Notedata
 - I want to thank you for inspiring me. -> [3Blue1Brown](https://www.youtube.com/watch?v=EK32jo7i5LQ)
 ---
 ### With numpy count = 100000
