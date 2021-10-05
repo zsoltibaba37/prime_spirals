@@ -1,9 +1,10 @@
 # Prime spirals
 
 Calculated prime numbers up to the desired number,  and displays.
+
 Edit 'count' variable inside .py file, and run sympathetic file.
 
-## Now save data:
+### Now save data:
 
 First version:
 
@@ -11,7 +12,9 @@ First version:
 
 Numpy version:
 
-`data_{today}_{count}_{filecount}_numpy.txt` and `data_{today}_{count}_{filecount}_numpy.png` 
+`data_{today}_{count}_{filecount}_numpy.txt` and `data_{today}_{count}_{filecount}_numpy.png`
+
+---
 
 Added 'numpy', that greatly improve calc performance.
 
